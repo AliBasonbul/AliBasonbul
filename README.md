@@ -44,7 +44,7 @@
 - 🧼 `laundry-system` – Customer + order management with SMS notifications
 - ✈️ `ahmed-discover-world` – Chat-based travel planner powered by n8n
 
-(📌 يمكنك تثبيت هذه المشاريع في صفحتك من "Customize your pins")
+
 
 ---
 
@@ -52,8 +52,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-basanbal)
 - 🐙 [GitHub](https://github.com/ali-basanbal)
-- 📧 Email: ali.basanbal@example.com
-
----
-
-> "First, solve the problem. Then, write the code." – John Johnson
+- 📧 Email: alimohmmedbasunbul@gmail.com
