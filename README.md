@@ -50,6 +50,6 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ali-basanbal)
-- 🐙 [GitHub](https://github.com/ali-basanbal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ali-basunbul-72a174365/)
+- 🐙 [GitHub](https://github.com/AliBasonbul)
 - 📧 Email: alimohmmedbasunbul@gmail.com
