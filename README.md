@@ -9,14 +9,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliBasinbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliBasinbul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasinbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AliBasinbul&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 🧠 Core Skills
 - **TypeScript**, **JavaScript**
 - **Express.js**, **Next.js**
@@ -35,6 +27,14 @@
 - **Tailwind CSS**, **Shadcn UI**
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliBasonbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliBasonbul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasonbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AliBasonbul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📈 Currently Working On
 
