@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Basunbul</h1>
+<h1 align="center">Hi 👋, I'm Ali Basonbul</h1>
 <h3 align="center">Back-End Developer | TypeScript | Express | Next.js</h3>
 
 ---
@@ -9,7 +9,13 @@
 
 ---
 
-## 🚀 Tech Stack
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliBasinbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliBasinbul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBasinbul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AliBasinbul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🧠 Core Skills
 - **TypeScript**, **JavaScript**
