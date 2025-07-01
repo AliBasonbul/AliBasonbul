@@ -15,16 +15,14 @@
 - **React.js** (with **Hooks**, **Context**, **React Query**, **Zod**)
 
 ### 🛢️ Databases & ORMs
-- **PostgreSQL**, **MongoDB**
-- **Prisma ORM**, **Mongoose**
+- **PostgreSQL**
+- **Prisma ORM**
 
 ### 🧰 Tools & DevOps
-- **Git**, **GitHub Actions**, **Docker**
+- **Git**, **GitHub Actions**
 - **Postman**
-- **S3**, **Vercel**, **Render**
+- **Vercel**, **Render**
 
-### 💡 UI & Styling
-- **Tailwind CSS**, **Shadcn UI**
 
 ---
 
@@ -39,10 +37,6 @@
 
 - 💻 `hdf-desktops-electron` – Hybrid Electron app with backend API (Express + Prisma)
 - 🏢 `crm-dashboard` – Centralized dashboard for ministry + organization data
-- 🧼 `laundry-system` – Customer + order management with SMS notifications
-- ✈️ `ahmed-discover-world` – Chat-based travel planner powered by n8n
-
-
 
 ---
 
